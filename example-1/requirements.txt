@@ -1,0 +1,12 @@
+openai
+langchain
+tiktoken
+langchain-openai
+faiss-cpu
+pypdf
+joblib
+pdfplumber
+python-docx
+scikit-learn
+transformers
+sentence-transformers
